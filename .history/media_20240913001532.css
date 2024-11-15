@@ -1,0 +1,51 @@
+@media (max-width:600px){
+  .nav-links li a{
+    display: none;
+  }
+  .nav-links i{
+    color: #fff;
+    font-size: 6vw;
+    display: inline-block;
+} 
+  .wrapper .logo a{
+    font-size: 4vw;
+    padding-left: 6vh;
+  }
+  .box > h1{
+    font-size: 4vw;
+    margin-right: 30%;
+    padding-left: 2vh;
+  }
+  .box > h2{
+    font-size: 4vw;
+    margin-right: 30%;
+    padding-left: 5vh;
+  }
+
+.slider{
+  display: none;
+}
+.box{
+  
+}
+.box > .buttons{
+  font-size: 4vw;
+  padding-left: 10vh;
+  margin-right: 10%;
+ 
+
+}
+.buttons > .signup{
+  font-size: 2vw;
+  padding-left: 10vh;
+  padding-right: 10vh;
+}
+.buttons > .login{
+  font-size: 2vw;
+  padding-left: 10vh;
+}
+input{
+  font-size: 2vw;
+  padding-left: 12vh;
+}
+}

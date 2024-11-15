@@ -1,0 +1,37 @@
+@media (max-width:600px){
+  .nav-links li a{
+    display: none;
+  }
+  .wrapper .logo a{
+    font-size: 4vw;
+  }
+  .box > h1{
+    font-size: 4vw;
+    margin-right: 50%;
+  }
+  .box > h2{
+    font-size: 4vw;
+  }
+  .nav-links i{
+    color: #fff;
+    font-size: 6vw;
+    display: block;
+} 
+.slider{
+  display: none;
+}
+.box > .buttons{
+  font-size: 4vw;
+  padding: 10px 25px 10px 25px;
+  margin-right: 50%;
+}
+.buttons > .signup{
+  font-size: 2vw;
+}
+.buttons > .login{
+  font-size: 2vw;
+}
+input{
+  font-size: 2vw;
+}
+}

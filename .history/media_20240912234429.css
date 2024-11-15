@@ -1,0 +1,14 @@
+@media (max-width:600px){
+  .nav-links li a{
+    display: none;
+  }
+  .box > h1{
+    font-size: 35px;
+  }
+  .nav-links i{
+    color: #fff;
+    font-size: 20px;
+    display: block;
+} 
+
+}

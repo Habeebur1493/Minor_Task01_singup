@@ -1,0 +1,24 @@
+@media (max-width:600px){
+  .nav-links li a{
+    display: none;
+  }
+  .wrapper .logo a{
+    font-size: 4vw;
+  }
+  .box > h1{
+    font-size: 4vw;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .box > h2{
+    font-size: 4vw;
+  }
+  .nav-links i{
+    color: #fff;
+    font-size: 6vw;
+    display: block;
+} 
+.slider{
+  display: none;
+}
+}
